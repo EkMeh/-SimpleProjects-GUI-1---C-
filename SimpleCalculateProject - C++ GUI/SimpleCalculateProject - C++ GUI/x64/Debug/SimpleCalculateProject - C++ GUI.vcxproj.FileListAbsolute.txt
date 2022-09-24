@@ -1,0 +1,4 @@
+C:\Users\barba\OneDrive\Работен плот\SimpleCalculateProject - C++ GUI\SimpleCalculateProject - C++ GUI\x64\Debug\SimpleCalculateProject - C++ GUI.vcxproj.AssemblyReference.cache
+C:\Users\barba\OneDrive\Работен плот\SimpleCalculateProject - C++ GUI\SimpleCalculateProject - C++ GUI\x64\Debug\SimpleCalculateProject - C++ GUI.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\barba\OneDrive\Работен плот\SimpleCalculateProject - C++ GUI\SimpleCalculateProject - C++ GUI\x64\Debug\SimpleCalculateProject___C___GUI.MyForm.resources
+C:\Users\barba\OneDrive\Работен плот\SimpleCalculateProject - C++ GUI\SimpleCalculateProject - C++ GUI\x64\Debug\SimpleCalculateProject - C++ GUI.vcxproj.GenerateResource.cache
